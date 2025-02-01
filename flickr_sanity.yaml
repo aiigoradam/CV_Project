@@ -1,7 +1,7 @@
 path: ../datasets/flickr
-train: images/train
+train: images/val
 val: images/val
-test: images/test
+test: images/val
 
 nc: 2
 
